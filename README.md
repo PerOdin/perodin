@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Odin</h1>
 <h3 align="center">An aspiring IT student with large interest in learning</h3>
 
-- 🔭 I’m currently working on [Dungeon Explorer](https://perodin.github.io/Projects-posts/DungeonExplorer.html)
+- 🔭 I’m currently working on [StaffOverseer](https://github.com/StaffOverseer)
 
-- 🌱 I’m currently learning **CS50 Courses, C#, JS and more**
+- 🌱 I’m currently learning **Web dev, React**
 
 - 👨‍💻 All of my projects are available at [https://perodin.github.io](https://perodin.github.io)
 
